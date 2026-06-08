@@ -17,7 +17,6 @@
 
 </div>
 
-<!-- Thin blue → green gradient line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3" width="100%" />
 
 <!-- ============================================================ -->
@@ -29,21 +28,18 @@
 <table>
 <tr>
 <td width="42%" align="center">
-
-<img src="./assets/coding.gif" width="380" height="240" alt="coding setup" />
-
+  <img src="./coding.gif" width="380" height="240" alt="coding setup" />
 </td>
-<td width="58%" valign="middle">
-
-&nbsp;&nbsp;&nbsp;I'm **Sreyash** &mdash; a developer who lives between **servers and neural nets**.
-
-&nbsp;&nbsp;&bull;&nbsp; **Backend Developer** building scalable APIs and event-driven systems
-&nbsp;&nbsp;&bull;&nbsp; **ML / Deep Learning Engineer** with a focus on **NLP**
-&nbsp;&nbsp;&bull;&nbsp; Currently shipping projects around **LLMs, RAG pipelines and Transformers**
-&nbsp;&nbsp;&bull;&nbsp; Exploring **distributed systems, Kafka pipelines and MLOps**
-&nbsp;&nbsp;&bull;&nbsp; Learning **System Design and Scaling Techniques**
-&nbsp;&nbsp;&bull;&nbsp; Pronouns: **He / Him**
-
+<td width="58%" valign="top">
+  <p>I'm <b>Sreyash</b> &mdash; a developer who lives between <b>servers and neural nets</b>.</p>
+  <ul>
+    <li><b>Backend Developer</b> building scalable APIs and event-driven systems</li>
+    <li><b>ML / Deep Learning Engineer</b> with a focus on <b>NLP</b></li>
+    <li>Currently shipping projects around <b>LLMs, RAG pipelines and Transformers</b></li>
+    <li>Exploring <b>distributed systems, Kafka pipelines and MLOps</b></li>
+    <li>Learning <b>System Design and Scaling Techniques</b></li>
+    <li>Pronouns: <b>He / Him</b></li>
+  </ul>
 </td>
 </tr>
 </table>
@@ -58,7 +54,7 @@
 
 <br/>
 
-![Programming](https://img.shields.io/badge/Programming_&_Scripting-161b22?style=for-the-badge&labelColor=21262d&color=21262d)
+### Programming &amp; Scripting
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -67,9 +63,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-<br/>
-
-![Frontend](https://img.shields.io/badge/Frontend-161b22?style=for-the-badge&labelColor=21262d&color=21262d)
+### Frontend
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -77,17 +71,13 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
 
-<br/>
-
-![Backend](https://img.shields.io/badge/Backend_&_Systems-161b22?style=for-the-badge&labelColor=21262d&color=21262d)
+### Backend &amp; Systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 
-<br/>
-
-![AI](https://img.shields.io/badge/AI_/_ML_&_Deep_Learning-161b22?style=for-the-badge&labelColor=21262d&color=21262d)
+### AI / ML &amp; Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
@@ -96,18 +86,14 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
-<br/>
-
-![DB](https://img.shields.io/badge/Databases-161b22?style=for-the-badge&labelColor=21262d&color=21262d)
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 
-<br/>
-
-![DevOps](https://img.shields.io/badge/DevOps_&_Cloud-161b22?style=for-the-badge&labelColor=21262d&color=21262d)
+### DevOps &amp; Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
@@ -141,7 +127,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreyashp07&bg_color=0D1117&color=92FE9D&line=00C9FF&point=92FE9D&area=true&hide_border=true&custom_title=Contribution+Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreyashp07&bg_color=0D1117&color=92FE9D&line=00C9FF&point=92FE9D&area=true&hide_border=true" width="98%" alt="Activity Graph" />
 
 </div>
 

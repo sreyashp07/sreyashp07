@@ -4,16 +4,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/sreyashp07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I'm+Sreyash;Backend+Developer;ML+%2F+Deep+Learning+Engineer;NLP+%26+GenAI+Builder" alt="Typing intro" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/sreyashp07">
-    <img src="https://img.shields.io/badge/-%40sreyashp07-0d1117?style=for-the-badge&logo=github&logoColor=00C9FF" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sreyashp07&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I'm+Sreyash;Backend+Developer;ML+%2F+Deep+Learning+Engineer;NLP+%26+GenAI+Builder" alt="intro" />
 
 </div>
 
@@ -38,7 +29,6 @@
     <li>Currently shipping projects around <b>LLMs, RAG pipelines and Transformers</b></li>
     <li>Exploring <b>distributed systems, Kafka pipelines and MLOps</b></li>
     <li>Learning <b>System Design and Scaling Techniques</b></li>
-    <li>Pronouns: <b>He / Him</b></li>
   </ul>
 </td>
 </tr>
@@ -51,8 +41,6 @@
 <!-- ============================================================ -->
 
 ## Skills &amp; Tools
-
-<br/>
 
 ### Programming &amp; Scripting
 
@@ -116,26 +104,19 @@
 
 <br/>
 
+<!-- 3D Lego Contribution Chart (requires GitHub Action — see setup below) -->
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sreyashp07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&ring_color=00C9FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyashp07&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&langs_count=8" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" width="98%" />
 
 </div>
 
 <br/>
 
+<!-- Snake / Pacman-style Contribution Animation (requires GitHub Action) -->
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreyashp07&bg_color=0D1117&color=92FE9D&line=00C9FF&point=92FE9D&area=true&hide_border=true" width="98%" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=sreyashp07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://raw.githubusercontent.com/sreyashp07/sreyashp07/output/github-contribution-grid-snake-dark.svg" alt="contribution animation" width="98%" />
 
 </div>
 
@@ -151,15 +132,6 @@
 
   <a href="https://www.linkedin.com/in/sreyashp07/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00C9FF" />
-  </a>
-  <a href="https://x.com/sreyashp07">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" />
-  </a>
-  <a href="mailto:sreyashp07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=92FE9D" />
-  </a>
-  <a href="https://github.com/sreyashp07">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 
 </div>

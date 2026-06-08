@@ -42,49 +42,85 @@
 
 ## Skills &amp; Tools
 
-### Programming &amp; Scripting
+<table width="100%">
+<tr><td>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+#### Programming &amp; Scripting
 
-### Frontend
+<img height="35" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img height="35" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img height="35" src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img height="35" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img height="35" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img height="35" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+</td></tr>
+</table>
 
-### Backend &amp; Systems
+<table width="100%">
+<tr><td>
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+#### Frontend
 
-### AI / ML &amp; Deep Learning
+<img height="35" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="35" src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img height="35" src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img height="35" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img height="35" src="https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ffffff)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+</td></tr>
+</table>
 
-### Databases
+<table width="100%">
+<tr><td>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+#### Backend &amp; Systems
 
-### DevOps &amp; Cloud
+<img height="35" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img height="35" src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff" />
+<img height="35" src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=ffffff" />
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+#### AI / ML &amp; Deep Learning
+
+<img height="35" src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img height="35" src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img height="35" src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+<img height="35" src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+<img height="35" src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img height="35" src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+#### Databases
+
+<img height="35" src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img height="35" src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img height="35" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img height="35" src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+#### DevOps &amp; Cloud
+
+<img height="35" src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img height="35" src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+
+</td></tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3" width="100%" />
 
@@ -96,27 +132,43 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sreyashp07&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=92FE9D&currStreakLabel=92FE9D&sideNums=00C9FF&sideLabels=92FE9D&dates=c9d1d9&currStreakNum=ffffff" alt="GitHub Streak" />
-  </a>
+<table>
+<tr><td align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sreyashp07&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=92FE9D&currStreakLabel=92FE9D&sideNums=00C9FF&sideLabels=92FE9D&dates=c9d1d9&currStreakNum=ffffff" alt="GitHub Streak" />
+</a>
+
+</td></tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- 3D Lego Contribution Chart (requires GitHub Action — see setup below) -->
 <div align="center">
 
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" width="98%" />
+<table>
+<tr><td align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" />
+
+</td></tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Snake / Pacman-style Contribution Animation (requires GitHub Action) -->
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/sreyashp07/sreyashp07/output/github-contribution-grid-snake-dark.svg" alt="contribution animation" width="98%" />
+<table>
+<tr><td align="center">
+
+<img src="https://raw.githubusercontent.com/sreyashp07/sreyashp07/output/github-contribution-grid-snake-dark.svg" alt="contribution animation" />
+
+</td></tr>
+</table>
 
 </div>
 

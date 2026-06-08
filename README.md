@@ -42,9 +42,6 @@
 
 ## Skills &amp; Tools
 
-<table width="100%">
-<tr><td>
-
 #### Programming &amp; Scripting
 
 <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,12 +51,6 @@
 <img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img height="35" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
 #### Frontend
 
 <img height="35" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -68,23 +59,11 @@
 <img height="35" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
 #### Backend &amp; Systems
 
 <img height="35" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
 
 #### AI / ML &amp; Deep Learning
 
@@ -95,12 +74,6 @@
 <img height="35" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
 #### Databases
 
 <img height="35" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -108,19 +81,10 @@
 <img height="35" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
 #### DevOps &amp; Cloud
 
 <img height="35" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-</td></tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3" width="100%" />
 
